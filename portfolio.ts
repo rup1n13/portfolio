@@ -95,15 +95,15 @@ export const educationInfo: EducationType[] = [
 export const experience: ExperienceType[] = [
   {
     role: "Stagiaire Développeur Full Stack",
-    company: "Godigital",
-    companyLogo: "/img/icons/common/godigital.png", 
+    company: "Go Digital Technology",
+    companyLogo: "/img/icons/common/godigital.png",
     date: "Juillet 2022 - Septembre 2022",
     desc: "Conception et développement d'une application de gestion de tâches en utilisant Laravel. Intégration de bases de données MySQL et déploiement sur un serveur Linux.",
   },
   {
     role: "Stagiaire Développeur",
     company: "FECECAM",
-    companyLogo: "/img/icons/common/fececam.png", 
+    companyLogo: "/img/icons/common/fececam.png",
     date: "Mai 2023 - Août 2023",
     desc: "Développement d'une application de gestion de garanties de crédit avec Laravel et Vue.js. Gestion des données avec MySQL et déploiement sur un serveur local.",
   },
