@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: "ADJOHOU Rupinie Elysée",
-  title: "Hello world 👋, Je suis Rupinie ADJOHOU",
+  title: "Hello world 👋, Je suis Rupini Elysée ADJOHOU",
   description:
     "Je suis un développeur web et mobile passionné qui s'efforce de devenir Full Stack, avec une forte motivation à apprendre et à m'améliorer constamment. J'explore de nouvelles technologies et cherche à les intégrer dans mes projets. Curieux et avide de connaissances, je m'essaie également à la cybersécurité et aux CTF pour diversifier mes compétences. Travailleur, autonome et toujours prêt à apprendre des autres, je vise à m'épanouir dans le développement et à repousser mes limites.",
   resumeLink: "https://drive.google.com/file/d/1Ol9RyDGRvcnSvqChKhiLvo-CVYPC-bXe/view?usp=sharing",
@@ -136,12 +136,6 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: "ADJOHOU Rupinie Elysée",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
-  keywords: [
-    "Rupinie",
-    "ADJOHOU Rupinie",
-    "Développeur Full Stack",
-    "rup1n13",
-    "Portfolio",
-  ],
+  url: "https://67ae4962d0474f00083b7546--beautiful-kulfi-f10252.netlify.app/",
+  keywords: ["Rupinie", "ADJOHOU Rupinie", "Développeur Full Stack", "rup1n13", "Portfolio"],
 };
