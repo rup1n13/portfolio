@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: "ADJOHOU Rupinie Elysée",
-  title: "Hello world 👋, Je suis Rupini Elysée ADJOHOU",
+  title: "Hello world 👋, Je suis Rupinie Elysée ADJOHOU",
   description:
     "Je suis un développeur web et mobile passionné qui s'efforce de devenir Full Stack, avec une forte motivation à apprendre et à m'améliorer constamment. J'explore de nouvelles technologies et cherche à les intégrer dans mes projets. Curieux et avide de connaissances, je m'essaie également à la cybersécurité et aux CTF pour diversifier mes compétences. Travailleur, autonome et toujours prêt à apprendre des autres, je vise à m'épanouir dans le développement et à repousser mes limites.",
   resumeLink: "https://drive.google.com/file/d/1Ol9RyDGRvcnSvqChKhiLvo-CVYPC-bXe/view?usp=sharing",
