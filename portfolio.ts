@@ -125,6 +125,11 @@ export const projects: ProjectType[] = [
     desc: "Projet en cours visant à créer un assistant personnel inspiré de Jarvis. Actuellement, je me concentre sur l'apprentissage de React Native à travers des applications tutorées (Pokedex, méditation) pour ensuite développer cette application.",
     github: "https://github.com/rup1n13/personal-assistant",
   },
+  {
+    name: "IdeaBox - Gestionnaire d'idées",
+    desc: "Application mobile développée avec React Native et Expo pour stocker, organiser et gérer les idées de projets.",
+    github: "https://github.com/rup1n13/Idea-Box",
+  },
 ];
 
 
